@@ -4,7 +4,7 @@ A modern, interactive quiz application built using React.js and Tailwind CSS, fe
 
 🚀 Live Demo
 
-👉 https://your-deployed-link.com
+👉 https://genuine-biscochitos-419027.netlify.app/leaderboard
 
 📸 Preview
 
