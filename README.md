@@ -1,4 +1,4 @@
-Quizora (Quiz App)
+⏱️ Quiz game Web Application (Task 3 – SCT_WD_3)
 
 A modern, interactive quiz application built using React.js and Tailwind CSS, featuring category-based quizzes, timer system, result analysis, and a local leaderboard system.
 
