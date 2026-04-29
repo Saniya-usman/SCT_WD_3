@@ -43,7 +43,7 @@ const cancelClear = () => {
 
       <div className="space-y-3 max-h-[300px] overflow-y-auto pr-1 mb-6 scrollbar-hide">
         {data.length === 0 ? (
-          <p className="text-[#DDC3C3]/80">No scores yet</p>
+          <p className="text-[#DDC3C3]/80">Start your first quiz to appear here 🚀</p>
         ) : (
           data.map((item, index) => (
             <div key={index} className="p-4 rounded-xl bg-white/10 border border-white/20 text-left">
